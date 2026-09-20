@@ -13,7 +13,7 @@ const routes = [
 ];
 
 const router = createRouter({
-    history: createWebHistory("/about-me-test/"),
+    history: createWebHistory("/about-me/"),
     routes,
 });
 

@@ -7,7 +7,7 @@ import path from "path";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-	base: "/about-me-test/", // This sets the base URL for your app
+	base: "/about-me/", // This sets the base URL for your app
 	server: {
 		port: 5173, // Ensure you're still running on port 3003
 		host: '0.0.0.0',
